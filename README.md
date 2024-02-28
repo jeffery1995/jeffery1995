@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any front-end library, web3 project
 - 📫 How to reach me?
 
-   - working e-mail: jeffery.jiang@crypto.com
    - personal e-mail: jefferyjiang0129@gmail.com
 <!---
 jeffery1995/jeffery1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
